@@ -1,3 +1,4 @@
+
 package com.example.FirstSpring.Model;
 
 import jakarta.persistence.Column;
